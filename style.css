@@ -27,5 +27,6 @@
 @keyframes effect {
     50% {
         border-color: transparent;
+        font-size: 20px;
     }
 }
